@@ -10,7 +10,7 @@ let obj =[
 // console.log(Object.entries(obj))
 
 
-const searchTerm = 18
+const searchTerm = "ajay"
 let result = []
 
 function getEachItem(object) {
